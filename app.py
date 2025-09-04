@@ -303,7 +303,7 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 𝓣𝓔𝓐𝓜 𝓐𝓣𝓕</span>.</span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 Lu͜͡c͜͡ife͢r- </span>.</span></p>
       <p><span class="boxed-text"><span class="color-span"> 𝗚𝗜𝗙𝗧 𝗢𝗙 ❰Lu͜͡c͜͡ife͢r- 🩷❱</span></span></p>
       <p><span class="boxed-text"><span class="color-sp">CONT3CT ON</span> <a href="https://www.facebook.com/muddassir.OP" class="color-s">F9C3B00K</a></p>
     </footer>
