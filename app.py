@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CHAND CANVO</title>
+  <title>MUDDASSIR CANVO</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -244,7 +244,7 @@ def send_message():
     <!-- Your text box content here -->
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">🅴🅽🅹🅾🆈 -- 🅶🅸🅵🆃</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">GIFT BY CHAND TRICKER</span></span></p>
+      <p><span class="boxed-text2"><span class="color-span">GIFT BY LuCiFer</span></span></p>
   </p>
     </footer>
     </div>
@@ -303,9 +303,9 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 𝓣𝓔𝓐𝓜 𝓐𝓣𝓕</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span"> 𝗚𝗜𝗙𝗧 𝗢𝗙 ❰𝗖𝗛𝗔𝗡𝗗❱</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://www.youtube.com/@chandtricker436" class="color-s">YOUTUBE</a></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">Muddasir HwRe</span>.</span></p>
+      <p><span class="boxed-text"><span class="color-span"> Lucifer hwrw</span></span></p>
+      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@muddassirhussain-yi6hf?si=qDCgPpnCmFMZt0Kt" class="color-s">YOUTUBE</a></p>
     </footer>
     </div>
 </div>
